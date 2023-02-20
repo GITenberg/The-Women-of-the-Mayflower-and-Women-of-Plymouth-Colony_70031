@@ -1,11 +1,16 @@
 _repo: The-Women-of-the-Mayflower-and-Women-of-Plymouth-Colony_70031
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70031-h/images/cover.jpg
 creator:
   author:
     agent_name: Noyes, Ethel Jane Russell Chesebrough
     gutenberg_agent_id: '55552'
     url: http://www.gutenberg.org/2009/agents/55552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70031#The-Women-of-the-Mayflower-and-Women-of-Plymouth-Colony
 gutenberg_issued: '2023-02-12'
 identifiers:
   gutenberg: '70031'
